@@ -1,0 +1,33 @@
+# Eclipse
+.classpath
+.project
+.settings
+
+# VsCode
+.vscode/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+pom.xml.versionsBackup
+
+# SVN
+.svn/
+
+# Gradle
+build/
+.gradle/
+*.gradle
+
+# Log
+*.log
+/Servers
+/.metadata
