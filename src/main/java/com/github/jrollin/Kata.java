@@ -1,7 +1,5 @@
 package com.github.jrollin;
 
-import sun.reflect.generics.tree.VoidDescriptor;
-
 public class Kata {
 
     private Integer difficulty = 0;
